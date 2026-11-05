@@ -222,4 +222,4 @@ Cities in Motion is available as a **full free version** with all features and u
 Ready to build your transport empire? **Download Cities in Motion now and start your journey!**
 
 ---
-**Last updated:** 2026-11-04 22:19:13 UTC
+**Last updated:** 2026-11-05 02:59:38 UTC
